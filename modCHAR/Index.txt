@@ -1,0 +1,21 @@
+A
+B
+C
+D
+G
+L
+O
+V
+X
+Z
+E a 10
+F b 11
+H c 12
+I d 13
+J e 14
+K f 15
+M g 16
+N h 17
+P i 18
+Q j 19
+R l 20
